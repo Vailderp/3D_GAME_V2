@@ -1,0 +1,30 @@
+window_width = 1680;
+window_height = 1050;
+window2_size = 800;
+w2_disable = 1;
+world_size = 32;
+
+world_type = maze;
+seed = 11;
+raycasting_engine_version = 2;
+
+rays_num = 1680;
+zoom = 40;
+FOV = 50;
+render_distance = 20;
+max_num_wall_for_ray = 1;
+precision = 5;
+shading_coefficient = 40;
+floor_detailing = 255;
+background_FOV = 360;
+deFishEye_coefficient = 40;
+FPS_update_time = 500;
+V-sync = 0;
+
+player_speed_step = 30;
+player_speed_rotation = 20;
+online_mode = 0;
+mysocket_port = 9000;
+
+mode = mouse;
+language = en;
